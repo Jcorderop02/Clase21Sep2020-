@@ -1,7 +1,7 @@
 package dominio;
 
 public class Lugar {
- private int numeroHabitantes = 100; //Cualquier objecto que cree dentro de la clase Lugar tendrá el valor asignado de 100
+ private int numeroHabitantes = 100; //A numero de habitantes le das el valor de 100
  private String nombre; 
  
 private void pruebaPrivado(){
